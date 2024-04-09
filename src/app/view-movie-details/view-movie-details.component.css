@@ -1,0 +1,32 @@
+.details-sum-box {
+    display: flex;
+}
+
+td:first-child {
+    width: 21%;
+    font-weight: 600;
+    text-align-last: end;
+    padding: 10px;
+    background: gainsboro;
+    border-right: 2px solid grey;
+}
+
+table {
+    width: -webkit-fill-available;
+}
+
+tr {
+    border: 1px solid grey;
+}
+
+td:last-child {
+    background: ghostwhite;
+    padding-left: 10px;
+}
+
+.back-btn {
+    cursor: pointer;
+    background: #d2d2df;
+    border: none;
+    padding: 8px 12px 8px 12px;
+}

@@ -1,0 +1,34 @@
+input {
+    margin: auto 10px;
+    height: 30px;
+    border: none;
+}
+
+ul {
+    padding-left: 2%;
+}
+
+li {
+    margin-bottom: 2%;
+}
+
+.filter-container {
+    background: #d2d2df;
+    padding: 20px;
+}
+
+.filter-box {
+    display: flex;
+}
+
+.movie-title {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.details-btn {
+    cursor: pointer;
+    background: #d2d2df;
+    border: none;
+    padding: 8px 12px 8px 12px;
+}
